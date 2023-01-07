@@ -22,6 +22,7 @@ body {
     box-shadow: 5px 5px 5px #23262a;
     top: 0;
     position: sticky;
+    background-color: #1b1d20;
 }
 
 .logo {
@@ -69,7 +70,7 @@ body {
     font-size: 16px;
     font-weight: 700;
     border: 2px solid #2c2f33;
-    box-shadow: 10px 10px 10px #23262a;
+    box-shadow: 2px 2px 2px 2px #23262a;
     margin-left: 10px;
 }
 .btn-primary:hover{
