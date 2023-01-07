@@ -168,7 +168,7 @@ main{
     height: 230px;
     border-radius: 10px;
     cursor: pointer;
-    box-shadow: 10px 10px 10px #19191c;
+    box-shadow: 10px 10px 10px 10px #19191c;
 }
 .develope-app{
     padding: 80px 20px 30px 40px;
@@ -177,7 +177,7 @@ main{
     height: 230px;
     border-radius: 10px;
     cursor: pointer;
-    box-shadow: 10px 10px 10px #19191c;
+    box-shadow: 10px 10px 10px 10px #19191c;
 }
 .develope-app-2{
     padding: 80px 20px 30px 40px;
@@ -186,7 +186,7 @@ main{
     height: 230px;
     border-radius: 10px;
     cursor: pointer;
-    box-shadow: 10px 10px 10px #19191c;
+    box-shadow: 10px 10px 10px 10px #19191c;
 }
 .develope-business:hover{
     transform: translateY(-10px);
