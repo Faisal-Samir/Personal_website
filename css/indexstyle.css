@@ -67,13 +67,14 @@ body {
     border-radius: 8px;
     color: #ff014f;
     font-size: 16px;
+    font-weight: 700;
     border: 2px solid #2c2f33;
     box-shadow: 10px 10px 10px #23262a;
     margin-left: 10px;
 }
 .btn-primary:hover{
-    transform: scale(1.1);
-    background-color: rgb(33, 36, 40);
+    transform: translateY(-4px);
+    background-color: rgb(27, 30, 33);
     cursor: pointer;
 }
 .banner-container{
@@ -100,6 +101,9 @@ body {
     color: #ffffff;
     font-weight: 700;
     font-size: 60px;
+}
+.banner-title span{
+    color: #ff014f;
 }
 .banner-description{
     color: rgb(149, 142, 142);
